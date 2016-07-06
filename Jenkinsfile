@@ -9,4 +9,7 @@ node {
   stage 'Build'
   //Build
   echo "This is where a build happens."
+  
+  stage 'Stage 3'
+  echo "example stage 3."
 }
